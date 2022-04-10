@@ -1,7 +1,7 @@
 # 2022-Spring-Deep-Learning
 2022 Spring Semester Deep Learning Class
 
-Professor : [Junghyun Oh, Ph. D.](http://robotailab.net/people/junghyunoh.html)<br>
+Professor : [Junghyun Oh](http://robotailab.net/people/junghyunoh.html)<br>
 Semester : 2022 Spring
 <br><br>
 
