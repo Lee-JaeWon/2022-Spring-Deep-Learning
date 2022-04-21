@@ -7,6 +7,7 @@ Semester : 2022 Spring
 
 ### Assignment
 * Assignment-1 : [Perceptron](https://github.com/Lee-JaeWon/2022-Spring-Deep-Learning/blob/main/Homework/HW1_Perceptron_LeeJaeWon.ipynb)<br>
+* Assignment-2 : [Regularization](https://github.com/Lee-JaeWon/2022-Spring-Deep-Learning/blob/main/Homework/HW2_Regularization.ipynb)<br>
 
 ### Mini Project
 *
