@@ -14,4 +14,4 @@ Semester : 2022 Spring
 * MiniProject #2 : [Stock Price Prediction](https://github.com/Lee-JaeWon/2022-Spring-Deep-Learning/tree/main/MiniProject/Miniproject%232_2020741051_%EC%9D%B4%EC%9E%AC%EC%9B%90)
 
 ### My Project
-*
+* [House-Interior-Classifier-and-Automatic-Recommendation](https://github.com/Lee-JaeWon/House-Interior-Classifier-and-Automatic-Recommendation)
